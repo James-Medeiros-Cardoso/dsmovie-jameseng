@@ -23,7 +23,7 @@ function Listing() {
 
   useEffect(() => {
     axios
-      .get(`${BASE_URL}/movies?size=12&page=${pageNumber}&sort=id`)
+      .get(`${BASE_URL}/movies?size=12&page=${pageNumber}&sort=title`)
       .then((response) => {
         console.log(response.data);
         const data = response.data as MoviePage;
