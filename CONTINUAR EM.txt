@@ -1,9 +1,9 @@
 CONTINUAR EM: Semana Spring React - Trilha profissional - Episódio 2
-01:11:37
+01:41:52
 
 https://github.com/devsuperior/sds-dsmovie/tree/main/episodio1
 
-git push https://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@github.com/James-Medeiros-Cardoso/dsmovie-jameseng.git
+git push https://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@github.com/James-Medeiros-Cardoso/dsmovie-jameseng.git
 
 npm install --global yarn
 
