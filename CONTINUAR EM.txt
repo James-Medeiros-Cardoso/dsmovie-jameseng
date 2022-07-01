@@ -1,0 +1,62 @@
+CONTINUAR EM: Semana Spring React - Trilha profissional - Episódio 2
+
+IMPLANTAÇÃO NA NUVEM (BACKEND E FRONTEND): Semana Spring React - Trilha profissional - Episódio 2 - 01:41:52
+
+https://github.com/devsuperior/sds-dsmovie/tree/main/episodio1
+
+git push https://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@github.com/James-Medeiros-Cardoso/dsmovie-jameseng.git
+
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+postgres://smkdqkbkejbsfi:dda787611c63a7763a3e4592e57bd2df68d0cae3014d6a9f540a32ee6563a77e@ec2-34-231-183-74.compute-1.amazonaws.com:5432/dem0aqh0qdut38
+
+postgres://
+
+smkdqkbkejbsfi [NOME DO USUÁRIO]
+
+:
+
+dda787611c63a7763a3e4592e57bd2df68d0cae3014d6a9f540a32ee6563a77e [SENHA DO USUÁRIO]
+
+@
+
+ec2-34-231-183-74.compute-1.amazonaws.com [HOST ONDE ESTÁ HOSPEDADO O BANCO DE DADOS]
+
+:
+
+5432 [PORTA]
+
+/
+
+dem0aqh0qdut38 [NOME DA BASE DE DADOS]
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+ENDEREÇO NO HEROKU:
+
+https://jameseng-dsmovie.herokuapp.com/
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+NETLIFY:
+
+ENDEREÇO PRIMARIO: https://eloquent-volhard-d4f976.netlify.app
+
+ENDEREÇO ALTERADO: dsmovie-jameseng.netlify.app
+
+https://dsmovie-jameseng.netlify.app/
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+
+
+
